@@ -90,6 +90,7 @@ hljs_theme:
     - tomorrow
     - vs2015
     - vs
+    - vscode
     - xcode
     - xt256
     - zenburn
